@@ -5,6 +5,7 @@ This is just a simple and robust tool to download translation files and build tr
 # Side note
 It uses game client's file to build the patch, which mean:
 - It should be compatible with the game client as long as there are no new updates applied to the game client.
+- Your game client should not have any modifications before building the patch.
 
 # Requirements:
 - Windows 7 or higher recommended. I don't claim this launcher will work well (or even work at all) for Windows XP.
