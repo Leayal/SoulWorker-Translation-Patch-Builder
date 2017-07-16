@@ -1,0 +1,15 @@
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\bin\Debug\SoulWorker Translation Patch Builder.exe.config
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\bin\Debug\SoulWorker Translation Patch Builder.exe
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\bin\Debug\SoulWorker Translation Patch Builder.pdb
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\Windows\MyMainMenu.g.cs
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\App.g.cs
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\SoulWorker Translation Patch Builder_MarkupCompile.cache
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\SoulWorker Translation Patch Builder_MarkupCompile.lref
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\App.baml
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\Windows\MyMainMenu.baml
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\SoulWorker Translation Patch Builder.g.resources
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\SoulWorker_Translation_Patch_Builder.Properties.Resources.resources
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\SoulWorker Translation Patch Builder.csproj.GenerateResource.Cache
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\SoulWorker Translation Patch Builder.exe
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\SoulWorker Translation Patch Builder.pdb
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Translation Patch Builder\obj\Debug\SoulWorker Translation Patch Builder.csprojResolveAssemblyReference.cache

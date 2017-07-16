@@ -1,0 +1,4 @@
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Resource File\bin\Release\SoulWorkerResourceFile.dll
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Resource File\bin\Release\Leayal.Core.dll
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Resource File\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\All Content\VB_Project\visual studio 2015\SoulWorker Translation Patch Builder\SoulWorker Resource File\obj\Release\SoulWorkerResourceFile.dll
